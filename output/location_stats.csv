@@ -1,0 +1,7 @@
+location,record_count,avg_vehicle_count,avg_speed_kmh,avg_congestion_index,avg_congestion_level
+Ameerpet Junction,149,64.5,41.8,0.538,Low
+Kukatpally Junction,169,41.7,42.7,0.522,Low
+Hitech City,169,51.7,43.6,0.517,Low
+Charminar,168,45.5,43.7,0.506,Low
+LB Nagar,170,89.1,42.7,0.495,Low
+Jubilee Hills Check Post,175,74.0,44.5,0.494,Low

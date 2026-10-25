@@ -27,7 +27,12 @@ local_files = {
 
 with st.sidebar:
     st.header("Data source")
-    source = st.radio("Choose analytics source", ["Local files", "Amazon S3"])
+    source = st.radio(
+    "Choose analytics source",
+    ["Local files", "Amazon S3"],
+    index=0,
+    key="analytics_source",
+)
 
 if source == "Local files":
     missing_files = [
