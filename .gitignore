@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+data/traffic_data_from_s3.csv
+output/*.csv

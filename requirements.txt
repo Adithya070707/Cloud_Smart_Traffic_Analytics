@@ -1,0 +1,5 @@
+boto3>=1.34,<2
+pandas>=2.0,<3
+plotly>=5.20,<7
+pyspark>=4.0,<5
+streamlit>=1.35,<2
